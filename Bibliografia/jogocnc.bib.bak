@@ -1,0 +1,29 @@
+% Encoding: UTF-8
+
+@TechReport{Xexeo2017O,
+  author = {Xexéo,Geraldo and Carmo, Airine and Acioli, Augusto and Taucei, Bernardo and Dipolitto, Claudio and Mangeli, Eduardo and Kritz, Joshua and Costa, Luis Felipe Coimbra and Areas, Marcelo and Monclair, Rafael and Garrot, Renan and Classe, Tadeu and Azevedo, Vitor},
+  date   = {2017},
+  title  = {O que são jogos: Uma introdução ao objeto de estudo do LUDES},
+  year   = {2017},
+}
+
+@InProceedings{Xexeo2021,
+  author    = {Geraldo Xexéo},
+  booktitle = {IV Encontro Nacional de Jogos e Atividades Lúdicas no Ensino de Química, Física e Biologia},
+  date      = {2021-04-19},
+  title     = {Jogos de Tabuleiro Modenos Como Inspieração para Criar Jogos para Aprendizado de Ciências},
+  owner     = {Geraldo Xexéo},
+}
+
+@InCollection{Xexeo2021,
+  author    = {Geraldo Xexéo and Bernardo Taucei},
+  booktitle = {Escola Regional de Sistemas de Informação do Rio de Janeiro},
+  date      = {2021},
+  title     = {ENDO-GDC: Projetando Jogos Educacionais},
+  chapter   = {5},
+  url       = {https://sol.sbc.org.br/index.php/ersi-rj},
+  urldate   = {2021-12-19},
+  owner     = {Geraldo Xexéo},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
